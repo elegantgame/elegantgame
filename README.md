@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elegantgame
 - 👀 I’m interested in video games and lots of food. 
-- 🌱 I’m currently learning CompTia A+ 
+- 🌱 I’m currently learning Front End Web Dev 
 - 📫 How to reach me jsabala2594@gmail.com
 
 <!---
